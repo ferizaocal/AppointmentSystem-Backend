@@ -8,7 +8,6 @@ namespace AppointmentSystem.Entities
         public string CustomerSurname { get; set; }
         public string Message { get; set; }
         public int Rating { get; set; }
-        public int Test { get; set; } 
     }
 }
 
