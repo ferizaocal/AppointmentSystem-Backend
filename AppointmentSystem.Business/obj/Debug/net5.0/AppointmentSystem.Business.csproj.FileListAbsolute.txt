@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.Business.deps.json
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.Business.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\ref\AppointmentSystem.Business.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.Business.pdb
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.DataAccess.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.Entities.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.Entities.pdb
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\bin\Debug\net5.0\AppointmentSystem.DataAccess.pdb
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\ref\AppointmentSystem.Business.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Business\obj\Debug\net5.0\AppointmentSystem.Business.pdb

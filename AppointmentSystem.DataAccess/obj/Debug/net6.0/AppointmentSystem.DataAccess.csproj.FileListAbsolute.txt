@@ -1,0 +1,17 @@
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/AppointmentSystem.DataAccess.deps.json
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/AppointmentSystem.DataAccess.runtimeconfig.json
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/AppointmentSystem.DataAccess.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/ref/AppointmentSystem.DataAccess.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/AppointmentSystem.DataAccess.pdb
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/AppointmentSystem.Entities.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/bin/Debug/net6.0/AppointmentSystem.Entities.pdb
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.csproj.AssemblyReference.cache
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.AssemblyInfoInputs.cache
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.AssemblyInfo.cs
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.csproj.CopyComplete
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/ref/AppointmentSystem.DataAccess.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.pdb
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.DataAccess/obj/Debug/net6.0/AppointmentSystem.DataAccess.genruntimeconfig.cache

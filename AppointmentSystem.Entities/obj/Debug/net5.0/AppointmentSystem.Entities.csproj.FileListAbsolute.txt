@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\bin\Debug\net5.0\AppointmentSystem.Entities.deps.json
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\bin\Debug\net5.0\AppointmentSystem.Entities.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\bin\Debug\net5.0\ref\AppointmentSystem.Entities.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\bin\Debug\net5.0\AppointmentSystem.Entities.pdb
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\ref\AppointmentSystem.Entities.dll
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.pdb
+C:\Users\HP\OneDrive\Masaüstü\AppointmentSystem\AppointmentSystem\AppointmentSystem.Entities\obj\Debug\net5.0\AppointmentSystem.Entities.csproj.AssemblyReference.cache

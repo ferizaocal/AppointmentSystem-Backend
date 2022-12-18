@@ -1,0 +1,17 @@
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.Business.deps.json
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.Business.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/ref/AppointmentSystem.Business.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.Business.pdb
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.DataAccess.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.Entities.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.Entities.pdb
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/bin/Debug/net6.0/AppointmentSystem.DataAccess.pdb
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.csproj.AssemblyReference.cache
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.AssemblyInfoInputs.cache
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.AssemblyInfo.cs
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.csproj.CoreCompileInputs.cache
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.csproj.CopyComplete
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/ref/AppointmentSystem.Business.dll
+/Users/ozkan/Projects/AppointmentSystem/AppointmentSystem.Business/obj/Debug/net6.0/AppointmentSystem.Business.pdb

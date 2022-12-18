@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1ZavlS8n7gs9acctV8Z3sD6C6iu5EzqMBXVt8rsXDBrZq+RTgbUNYGxIPhCuNGr4nmIcIfprXGCfc+L/9lAXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Masaüstü\\AppointmentSystem\\AppointmentSystem\\AppointmentSystem.Entities\\AppointmentSystem.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
